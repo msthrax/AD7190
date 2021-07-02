@@ -22,3 +22,6 @@ uint32_t AD7190_TemperatureRead(AD7190_SpiDriver_Typedef* AD7190_SpiDriver);
 AD7190_TemperatureRead()
 ```
 will change range. Be carefull.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
